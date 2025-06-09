@@ -1,0 +1,1 @@
+npm executes install scripts (e.g., preinstall, install, postinstall) defined in a package’s package.json by default. These scripts could potentially deliver a RAT by running arbitrary code (e.g., downloading and executing remote binaries).
